@@ -150,6 +150,6 @@ def all_holidays_with_bbq(holiday_hash)
     if supply_list.key("BBQ")
       list_keys << holiday
     end
-    
+  end
   end
 end
